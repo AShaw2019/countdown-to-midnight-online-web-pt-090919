@@ -8,5 +8,9 @@ def countdown(time_to_midnight)
 end
   
   
-  
+  sleep(1)
+    seconds_to_midnight -= 1
+  end
+  seconds_to_midnight.to_s + " left. HAPPY NEW YEAR!"
+  "HAPPY NEW YEAR!"
 
