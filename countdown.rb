@@ -13,4 +13,5 @@ end
   end
   time_to_midnight.to_s + " left. HAPPY NEW YEAR!"
   "HAPPY NEW YEAR!"
+end
 
