@@ -11,7 +11,5 @@ end
   sleep(1)
     time_to_midnight -= 1
   end
-  time_to_midnight.to_s + " left. HAPPY NEW YEAR!"
-  "HAPPY NEW YEAR!"
-end
+  
 
